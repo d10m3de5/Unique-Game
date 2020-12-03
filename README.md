@@ -6,8 +6,11 @@
 
 # Main Menu
 
+
 ## Our menu includes basic options such as "Play, How To Play, Quit/Exit, and Credits". These are buttons controls that allows the user to enter the different options once they click on the desired button. Level 2 was created in another separate file, by Andrew T. 
 ## Please note that this is a PG-13 game, where the player will be asked to enter name and age. If the age is below 13, then he/she cannot play the game. Otherwise, you will be able to enjoy this nice and amazing game. 
+
+<img src="https://raw.githubusercontent.com/d10m3de5/Unique-Game/level-2-by-drew/levels.PNG" width="300" height="300"/>
 
 # Scoring
 ## Player will automatically sign in with a bonus of 200 points. Some levels will have scoring where the player will get up to 50 points if they advance to next level. However, be aware that if you choose the wrong option, depending the level, a total of 10 points will be deducted. These will then be saved in a file to output your progress or score, name and age, as the user inputs. 
